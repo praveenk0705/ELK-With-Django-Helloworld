@@ -89,5 +89,14 @@ output {
 --Then run logstash as ./logstash -f logstash.conf
 
 
+
+
+
+
+ADDITIONAL INSTRUCTIONS TO LOG PROPER MESSAGES FROM DJANGO logging package:
+1.
+2.
+
+
 Thats it. you are all set to go. make sure all the ELK stack is up and running, and you can see all your logs in kibana. 
 
